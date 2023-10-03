@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "geojson1",
+"features": [
+{ "type": "Feature", "properties": { "id": null, "New Area 2": "Land Change 1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -71.0090447, 42.3680229 ], [ -71.0053226, 42.3652627 ], [ -71.0004122, 42.3749114 ], [ -71.0058556, 42.3746424 ], [ -71.0090447, 42.3680229 ] ] ] } }
+]
+}
